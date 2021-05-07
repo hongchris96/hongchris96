@@ -4,11 +4,11 @@
 **hongchris96/hongchris96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Use Discord much? Why not try building one? [DisGuy](https://disguy.herokuapp.com/#/)
+Use Discord much? Why not try building one? <a href="https://disguy.herokuapp.com/#/" target="_blank">DisGuy</a>
 
-Wanna have some fun playing a shooter game? [Geese Shooter](https://hongchris96.github.io/Geese-Shooter/)
+Wanna have some fun playing a shooter game? <a href="https://hongchris96.github.io/Geese-Shooter/" target="_blank">Geese Shooter</a>
 
-Hobbies: Tennis, Gym, Art
+Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 
 
 <details closed>
