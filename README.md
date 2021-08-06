@@ -15,13 +15,13 @@ Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
   <summary>GitHub Stats 📈</summary>
   <br>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hongchris96)](https://github.com/hongchris96/github-readme-stats) 
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hongchris96&count_private=true)](https://github.com/hongchris96/github-readme-stats) 
   
 </details>
 <details closed>
   <summary>My Top Languages ☕ </summary>
   <br>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96)](https://github.com/hongchris96/github-readme-stats) 
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true)](https://github.com/hongchris96/github-readme-stats) 
   
 </details>
