@@ -1,4 +1,4 @@
-### Full Stack Software Engineer Here 👋
+<h1 align="center">Full Stack Software Engineer Here 👋</h1>
 
 <!--
 **hongchris96/hongchris96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
