@@ -5,7 +5,7 @@
 -->
 ### Intro:
 
-* Tools of Trade: React, Redux, Javascript, Ruby on Rails, Node.js, Express.js, MongoDB, and SQL.
+* Tools of Trade: Javascript, React, Go, Ruby on Rails, Python, SQL, Node.js, Express.js, MongoDB
 * Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 
 ### Personal Projects:
