@@ -4,8 +4,8 @@
 **hongchris96/hongchris96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Intro:
-Builds web applications using React, Redux, Javascript, Ruby on Rails, Node.js, Express.js, MongoDB, and SQL.
-Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
+* Tools of Trade: React, Redux, Javascript, Ruby on Rails, Node.js, Express.js, MongoDB, and SQL.
+* Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 
 ### Personal Projects:
 * Use Discord much? Why not try building one? <a href="https://disguy.herokuapp.com/#/" target="_blank">DisGuy</a>
@@ -16,18 +16,3 @@ Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 <img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true&layout=compact&theme=midnight-purple" />
 
 <img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=hongchris96&count_private=true&show_icons=true&theme=midnight-purple"/>
-
-<details closed>
-  <summary>GitHub Stats 📈</summary>
-  <br>
-  
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hongchris96&count_private=true)](https://github.com/hongchris96/github-readme-stats) 
-  
-</details>
-<details closed>
-  <summary>My Top Languages ☕ </summary>
-  <br>
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true)](https://github.com/hongchris96/github-readme-stats) 
-  
-</details>
