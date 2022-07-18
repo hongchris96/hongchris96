@@ -4,12 +4,30 @@
 **hongchris96/hongchris96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Intro:
+
 * Tools of Trade: React, Redux, Javascript, Ruby on Rails, Node.js, Express.js, MongoDB, and SQL.
 * Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 
 ### Personal Projects:
+
 * Use Discord much? Why not try building one? <a href="https://disguy.herokuapp.com/#/" target="_blank">DisGuy</a>
 * Wanna have some fun playing a shooter game? <a href="https://hongchris96.github.io/Geese-Shooter/" target="_blank">Geese Shooter</a>
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/chen-wei-christopher-hong-4b189162/">
+  <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hongchris96">
+  <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto: chong@illfonic.com">
+  <img width="40px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
+</a>
+<br />
+<br/>
 
 ### Github Stats:
 
