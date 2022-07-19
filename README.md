@@ -30,6 +30,6 @@
 
 ### Github Stats:
 
-<img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true&layout=compact&theme=midnight-purple" />
+<img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true&layout=compact&theme=great-gatsby" />
 
-<img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=hongchris96&count_private=true&show_icons=true&theme=midnight-purple"/>
+<img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=hongchris96&count_private=true&show_icons=true&theme=great-gatsby"/>
