@@ -8,9 +8,14 @@
 * Tools of Trade: Javascript, React, Go, Ruby on Rails, Python, SQL, Node.js, Express.js, MongoDB
 * Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 
+### Work Projects:
+
+* Company Dashboard
+* Version Control and coding done using Git on Bitbucket
+
 ### Personal Projects:
 
-* Use Discord much? Why not try building one? <a href="https://disguy.herokuapp.com/#/" target="_blank">DisGuy</a>
+* Use Discord much? Why not try building one? <a href="https://disguy.herokuapp.com/#/" target="_blank">DisGuy</a> (Production currently down)
 * Wanna have some fun playing a shooter game? <a href="https://hongchris96.github.io/Geese-Shooter/" target="_blank">Geese Shooter</a>
 
 ### Connect with me:
