@@ -20,16 +20,16 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/chen-wei-christopher-hong-4b189162/">
-  <img width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/chen-wei-christopher-hong-4b189162/" style="text-decoration:none">
+  <img width="30px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hongchris96">
-  <img width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<a href="https://github.com/hongchris96" style="text-decoration:none">
+  <img width="30px" alt="GitHub" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTRiweRl770zkm8mJ6c2gv-32SFnA8wWdYA&s" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto: chong@illfonic.com">
-  <img width="30px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
+  <img width="30px" alt="Email" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
 </a>
 <br />
 
