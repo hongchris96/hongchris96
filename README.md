@@ -20,11 +20,11 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/chen-wei-christopher-hong-4b189162/" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/chen-wei-christopher-hong-4b189162/" style="text-decoration:none" target="_blank">
   <img width="30px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hongchris96" style="text-decoration:none">
+<a href="https://github.com/hongchris96" style="text-decoration:none" target="_blank">
   <img width="30px" alt="GitHub" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTRiweRl770zkm8mJ6c2gv-32SFnA8wWdYA&s" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
