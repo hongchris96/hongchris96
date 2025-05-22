@@ -10,7 +10,8 @@
 
 ### Work Projects:
 
-* Company Dashboard
+* Company Internal Dashboard
+* Go Microservices
 * Version Control and coding done using Git on Bitbucket
 
 ### Personal Projects:
