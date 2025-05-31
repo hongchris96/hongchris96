@@ -47,7 +47,6 @@
 -->
 <p align="center">
 <img align="left" height='160px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true&layout=compact&theme=great-gatsby" />
-</p>
-<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongchris96&theme=great-gatsby&border=FFFFFF"/>
 </p>
