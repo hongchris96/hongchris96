@@ -29,18 +29,7 @@
   <img width="30px" alt="GitHub" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTRiweRl770zkm8mJ6c2gv-32SFnA8wWdYA&s" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto: chong@illfonic.com">
+<a href="mailto: hongchris96@hotmail.com">
   <img width="30px" alt="Email" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
 </a>
 <br />
-
-### Github Stats:
-
-<img align="left" height='160px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongchris96&count_private=true&layout=compact&theme=great-gatsby" />
-<!--
-<img align="right" height='160px' width='400px' src="https://github-readme-stats.vercel.app/api?username=hongchris96&count_private=true&show_icons=true&theme=great-gatsby"/>
-<br clear="both"/>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hongchris96&theme=great-gatsby&border=FFFFFF"/>
-</p>
--->
