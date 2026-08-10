@@ -5,7 +5,7 @@
 -->
 ### Intro:
 
-* Tools of Trade: Javascript, React, Go, Ruby on Rails, Python, SQL, Node.js, Express.js, MongoDB
+* Tools of Trade: TypeScript, React, Go, Ruby on Rails, Python, SQL, Aerospike, Databricks, Airflow, Datadog, AWS, Node.js, Express.js, MongoDB
 * Hobbies: 🎾 Tennis, 💪 Gym, ⭐ Art
 
 ### Work Projects:
